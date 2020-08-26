@@ -1,0 +1,5 @@
+protocol,prefix,ISP
+ipv6,240a:6b::/32,docomo
+ipv6,2001:268:9000::/36,au
+ipv6,2400:2200::/36,softbank
+ipv6,240b:c000::/24,rakuten
