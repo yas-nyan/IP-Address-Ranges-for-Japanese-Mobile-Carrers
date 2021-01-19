@@ -36,6 +36,14 @@ def get_mobile_carrers(ipaddr):
 
     return carrers
 
+def get_mobile_carrers_name(ipaddr):
+    carrers = get_mobile_carrers(ipaddr)
+    if len(carrers) >=1:
+      isp_name = carrers.iat[0, 2]
+      return isp_name
+    else:
+      return ""
+      
 
 def is_mobile_ip(ipaddr):
     carrers = get_mobile_carrers(ipaddr)
