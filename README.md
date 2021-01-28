@@ -30,21 +30,36 @@ IP address?: 192.0.2.23
 ```
 
 ## References
-(いずれも2020年閲覧)
-docomo:
-https://www.nttdocomo.co.jp/service/developer/smart_phone/spmode/index.html
+(いずれも2021年1月28日閲覧)
+
+### docomo:
+- https://www.nttdocomo.co.jp/service/developer/smart_phone/spmode/index.html
+
+### au:
+- http://www.au.kddi.com/developer/android/kaihatsu/network/
+#### 備考
+```
+なお、LTE NET for DATA/5G NET for DATAで使用しているグローバルIPアドレスは非公開です。
+```
+とのこと．
 
 
-au:
-http://www.au.kddi.com/developer/android/kaihatsu/network/
 
+### Softbank: 
+- https://www.support.softbankmobile.co.jp/partner/home_tech1/index.cfm
 
-softbank: 
-https://www.support.softbankmobile.co.jp/partner/home_tech1/index.cfm
+- https://www.support.softbankmobile.co.jp/partner_st/home_tech1/ios/index.cfm
 
-https://www.support.softbankmobile.co.jp/partner_st/home_tech1/ios/index.cfm
+- https://www.support.softbankmobile.co.jp/partner_st/home_tech1/X_series/index.cfm
 
-https://www.support.softbankmobile.co.jp/partner_st/home_tech1/X_series/index.cf
+#### 備考
+IPv6の記載が無いため，[総務省資料](https://www.soumu.go.jp/main_content/000517037.pdf)を参照
 
-Rakuten:
-TBD
+### Rakuten Mobile
+
+- https://ipinfo.io/AS138384
+- https://ipinfo.io/AS23720
+- https://ipinfo.io/AS10012
+
+#### 備考
+公式HPに記載が無いためRakuten Mobileと名のつくAS(AS138384, AS23720, AS10012) からipinfo.netを利用して検索
