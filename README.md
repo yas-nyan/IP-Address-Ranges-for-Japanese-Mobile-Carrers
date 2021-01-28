@@ -10,7 +10,7 @@ A simple script for determining the mobile address
 
 
 
-### usage
+## usage
 - install
 
 ```
@@ -28,3 +28,16 @@ IP address?: 240b:c010::111
 240b:c010::111 is mobile address. (rakuten)
 IP address?: 192.0.2.23
 ```
+
+## References
+(いずれも2020年閲覧)
+docomo:
+https://www.nttdocomo.co.jp/service/developer/smart_phone/spmode/index.html
+au:
+http://www.au.kddi.com/developer/android/kaihatsu/network/
+softbank: 
+https://www.support.softbankmobile.co.jp/partner/home_tech1/index.cfm
+https://www.support.softbankmobile.co.jp/partner_st/home_tech1/ios/index.cfm
+https://www.support.softbankmobile.co.jp/partner_st/home_tech1/X_series/index.cf
+Rakuten:
+TBD
