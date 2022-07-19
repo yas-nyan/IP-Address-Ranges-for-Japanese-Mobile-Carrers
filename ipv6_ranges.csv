@@ -1,8 +1,14 @@
 protocol,prefix,ISP
-ipv6,240a:6b::/32,docomo
 ipv6,240a:61::/37,docomo
 ipv6,240a:61:800::/38,docomo
 ipv6,240a:61:c00::/40,docomo
+ipv6,240a:61:1000::/37,docomo
+ipv6,240a:61:1800::/38,docomo
+ipv6,240a:61:1c00::/40,docomo
+ipv6,240a:6b::/32,docomo
+ipv6,240a:61:2000::/37,docomo
+ipv6,240a:61:2800::/38,docomo
+ipv6,240a:61:2c00::/40,docomo
 ipv6,2001:268:9000::/36,au
 ipv6,2001:268:9800::/40,au
 ipv6,2001:268:9900::/40,au
